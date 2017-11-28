@@ -19,7 +19,7 @@ public class DialogFlow {
 	public AIResponse response;
 	public String entity;
 	public String query;
-	public String ClientAccessKey = "8ad8b4e6abca4ad496223247d137b14e";
+	public String ClientAccessKey = "ASKAUTHORFORTHIS";
 
 	public DialogFlow() {
 

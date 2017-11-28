@@ -39,8 +39,8 @@ import com.github.messenger4j.receive.handlers.TextMessageEventHandler;
 @RequestMapping("/callback")
 public class Chatbot {
 
-	private static final String APPSECRET = "0dd7f3a441a86a3587d2fa58f4958c80";
-	private static final String VERIFYTOKEN = "pmcc-helper-app-1-abctupo0u4w";
+	private static final String APPSECRET = "ASKAUTHORFORTHIS";
+	private static final String VERIFYTOKEN = "ASKAUTHORFORTHIS";
 	private final MessengerReceiveClient receiveClient;
 	private final MessengerSendClient sendClient;
 
